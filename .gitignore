@@ -1,2 +1,8 @@
 # Ignore the database file
 merchex/db.sqlite3
+
+env/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
